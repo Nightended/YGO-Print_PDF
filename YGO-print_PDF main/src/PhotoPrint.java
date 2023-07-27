@@ -47,6 +47,9 @@ public class PhotoPrint {
                 e.printStackTrace();
             }
         }
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("按回车键继续...");
+        scanner.nextLine();
     }
 
     private static void createPdf(File[] imageFiles, String outputPdfPath) throws IOException, DocumentException {
