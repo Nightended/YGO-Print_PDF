@@ -4,7 +4,7 @@
 
 ### 使用可执行(.exe)文件
 
-1. 下载已封装完成的项目文件并解压：[进入下载地址](https://github.com/Nightending/YGO-Print_PDF/releases/tag/YGO-print_PDF)
+1. 下载已封装完成的项目文件并解压：[点击进入下载地址](https://github.com/Nightending/YGO-Print_PDF/releases/tag/YGO-print_PDF)
 2. 完成"card"文件夹的补充：您可以将YGO-pro的卡图文件夹复制进去，或者下载本项目中“额外补充”中的卡图文件。**注意**：请将卡图直接复制进"card"文件夹，不要复制到子文件夹中
 3. 将目标卡组(.ydk)文件复制到"deck-input"文件夹中
 4. 双击执行"YGO_PDF.exe"，将会出现命令行窗口，运行结束后即可关闭
@@ -15,7 +15,7 @@
 
 ### 额外补充
 
-- 项目使用本地卡图，以后可能会做出改进
+- 项目暂时使用本地卡图，以后可能会做出改进
 - 生成的PDF质量与card文件夹的卡图质量直接相关
 
 ### 碎碎念
